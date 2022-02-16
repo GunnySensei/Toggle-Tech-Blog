@@ -19,6 +19,8 @@ Unlicensed
 
 - How to install this application:  
   -- https://toggle-tech-blog.herokuapp.com/
+  ![image](https://user-images.githubusercontent.com/34635697/154335807-91180503-1ade-4c0f-8bca-10260494131e.png)
+
 
 # Usage
 
